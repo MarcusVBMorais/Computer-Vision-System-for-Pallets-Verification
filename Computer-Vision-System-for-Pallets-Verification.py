@@ -1,3 +1,18 @@
+#A Computer Vision System for Pallets Verification in Quality Control#
+
+#This project has been developed based on image processing and machine learning techniques. 
+#Image processing parameters of Canny and Hough Transform have been adjusted.
+#Support-Vector Machines (SVM) parameters' have been optmized using the grid function.
+
+#Authors
+#Marcus Vinicius Barbosa de Morais
+#Sara Dereste dos Santos
+#Ricardo Pires
+#
+#Federal Institute of Education, Science Technology of Sao Paulo
+#Electrical Department
+
+#Import libraries
 import numpy as np
 import math
 import cv2
